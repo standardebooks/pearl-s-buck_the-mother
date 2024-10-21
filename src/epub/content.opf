@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/pearl-s-buck/the-mother</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-10-21T16:49:12Z</dc:date>
+		<meta property="dcterms:modified">2024-10-21T16:49:12Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -38,16 +38,16 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">In a remote village, a devoted mother’s fierce love for her family is tested as she struggles to keep them fed, healthy, and together in the face of grinding poverty and looming change.</dc:description>
+		<dc:description id="description">In a remote Chinese village, a devoted mother’s fierce love for her family is tested as she struggles to keep them fed, healthy, and together in the face of grinding poverty and looming change.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In &lt;i&gt;The Mother&lt;/i&gt;, the story begins in a rural, farming community, where a mother juggles her labor on the land with caring for her children. The setting is simple yet demanding, reflecting themes of survival, motherhood, and family duty. Her deep connection to the land is both nurturing and burdensome, hinting at underlying tensions. The quiet struggles within this family’s daily life raise questions about what challenges might unfold as the story progresses.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Mother&lt;/i&gt;, published just two years after &lt;a href="https://standardebooks.org/ebooks/pearl-s-buck"&gt;Pearl S. Buck&lt;/a&gt; won the &lt;a href="https://standardebooks.org/collections/pulitzer-prize-for-fiction-winners"&gt;Pulitzer Prize&lt;/a&gt; for &lt;i&gt;The Good Earth&lt;/i&gt;, is similarly set in rural China, but focuses instead on the life of a mother and her family. Buck, the daughter of Christian missionaries, was raised in China and primarily wrote about early 1900s Chinese life for an American audience. While &lt;i&gt;The Mother&lt;/i&gt; was not as popular as &lt;i&gt;The Good Earth&lt;/i&gt;, it was recognized for its simple and straightforward story.&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;The Mother&lt;/i&gt;, the story begins in a rural Chinese farming community, where a mother juggles her labor on the land with caring for her children. The setting is simple yet demanding, reflecting themes of survival, motherhood, and family duty. Her deep connection to the land is both nurturing and burdensome, hinting at underlying tensions. The quiet struggles within this family’s daily life raise questions about what challenges might unfold as the story progresses.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Mother&lt;/i&gt;, published just two years after &lt;a href="https://standardebooks.org/ebooks/pearl-s-buck"&gt;Pearl S. Buck&lt;/a&gt; won the &lt;a href="https://standardebooks.org/collections/pulitzer-prize-for-fiction-winners"&gt;Pulitzer Prize&lt;/a&gt; for &lt;i&gt;The Good Earth&lt;/i&gt;, is similarly set in rural China, but focuses instead on the life of a mother and her family. While &lt;i&gt;The Mother&lt;/i&gt; was not as popular as &lt;i&gt;The Good Earth&lt;/i&gt;, it was recognized for its simple and straightforward story.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/68577</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000585965</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">79477</meta>
+		<meta property="se:reading-ease.flesch">73.24</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Mother_(Buck_novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/pearl-s-buck_the-mother</meta>
 		<dc:creator id="author">Pearl S. Buck</dc:creator>
@@ -80,6 +80,9 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Bystricky, Lukas</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
