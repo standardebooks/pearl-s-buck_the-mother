@@ -47,7 +47,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/68577</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000585965</dc:source>
-		<meta property="se:word-count">79477</meta>
+		<meta property="se:word-count">79045</meta>
 		<meta property="se:reading-ease.flesch">73.24</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Mother_(Buck_novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/pearl-s-buck_the-mother</meta>
