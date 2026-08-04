@@ -40,7 +40,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>In a remote Chinese village, a devoted mother’s fierce love for her family is tested as she struggles to keep them fed, healthy, and together in the face of grinding poverty and looming change.</dc:abstract>
+		<meta property="schema:abstract">In a remote Chinese village, a devoted mother’s fierce love for her family is tested as she struggles to keep them fed, healthy, and together in the face of grinding poverty and looming change.</meta>
 		<dc:description>
 			&lt;p&gt;In &lt;i&gt;The Mother&lt;/i&gt;, the story begins in a rural Chinese farming community, where a mother juggles her labor on the land with caring for her children. The setting is simple yet demanding, reflecting themes of survival, motherhood, and family duty. Her deep connection to the land is both nurturing and burdensome, hinting at underlying tensions. The quiet struggles within this family’s daily life raise questions about what challenges might unfold as the story progresses.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Mother&lt;/i&gt;, published just two years after &lt;a href="https://standardebooks.org/ebooks/pearl-s-buck"&gt;Pearl S. Buck&lt;/a&gt; won the &lt;a href="https://standardebooks.org/collections/pulitzer-prize-for-fiction-winners"&gt;Pulitzer Prize&lt;/a&gt; for &lt;i&gt;The Good Earth&lt;/i&gt;, is similarly set in rural China, but focuses instead on the life of a mother and her family. While &lt;i&gt;The Mother&lt;/i&gt; was not as popular as &lt;i&gt;The Good Earth&lt;/i&gt;, it was recognized for its simple and straightforward story.&lt;/p&gt;
